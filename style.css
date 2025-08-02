@@ -1,0 +1,160 @@
+body {
+    font-family: segoe 'Segoe UI', sans-serif;
+    background-color: #000;
+    color: #fff;
+}
+.navbar-nav .nav-link{
+    margin-right: 20px;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.hero-section {
+    background: linear-gradient(to right, #000, #111);
+}
+
+.text-section h1 {
+    line-height: 1.2;
+    text-transform: uppercase;
+}
+
+
+
+.btn-outline-warning {
+    color: #f4c27b;
+    border-color: #f4c27b;
+}
+
+.btn-outline-warning:hover{
+    background-color: #f4c27b;
+    color: #000;
+}
+
+.section1{
+    background-image: url(newbackgroundimg.webp);
+    background-size: cover;
+  
+    background-position:  center ;
+
+}
+.overlay{
+    background-color: #11111179;
+      padding: 100px 50px;
+}
+.col{
+    padding: 50px 30px 10px;
+
+    
+}
+
+.section3{
+    padding: 100px 50px;
+}
+.storehead{
+    text-align: center;
+    color: #f4c27b;
+}
+.paragraph{
+    font-size: 18px;
+}
+.section5{
+    font-size: 50px;
+    color: #050301;
+    background-image: url(watchbackground.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 150px 150px;
+
+   
+    
+
+}
+h4{
+    color: #f4c27b;
+}
+.link{
+    text-align: center
+}
+.section3{
+   
+     
+    background-size: cover;
+    padding: 30px 30px;
+}
+.overlay2{
+     background-color: #11111179;
+      padding: 100px 50px;
+}
+.newcollection{
+    font-size: 60px;
+    color: #f0efed;
+    font-style: italic;
+}
+.section4{
+    background-color: rgb(236, 225, 211);
+}
+.inbox9p{
+    color: #000;
+    font-size: 20px;
+}
+.offer{
+    color: #000;
+}
+.inbox10{
+    margin: auto;
+    text-align: center;
+   
+}
+.section6{
+    background-color: floralwhite;
+    background-image: url(watchbackground.jpg);
+    background-size: cover;
+}
+
+.overlay2{
+    background-color: #11111179;
+      padding: 100px 50px;
+}
+.section7{
+    background-image: url(watch2.webp);
+    background-size: cover;
+}
+
+.highquality{
+    color: #050301;
+}
+.img{
+    /* background-color: green; */
+    height: 300px;
+}
+
+.inbox1{
+    font-family: "Amatic SC", sans-serif;
+}
+.section2{
+    padding: 30px 0;
+}
+@media(max-width:768px){
+    .img {
+        text-align: center;
+    }
+}
+.section9{
+    padding: 50px 20px;
+    background-color: rgb(242, 196, 135);
+}
+.section8{
+    padding: 50px;
+}
+.section10{
+    padding: 50px;
+}
+
+.section11{
+    background-image: url(backgroundimg3.jpg);
+    background-size: cover;
+}
+
+
